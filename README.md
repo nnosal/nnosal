@@ -12,13 +12,13 @@
 <p align="center">
     <kbd>
         <a
-            href="https://www.linkedin.com/in/nicolasnosal"
+            href="https://www.linkedin.com/in/nosalnicolas/"
             title="LinkedIn - Nicolas NOSAL"
             ><img
                 src="https://img.shields.io/badge/-Nicolas_NOSAL-0072b1?style=flat&logo=Linkedin&logoColor=white"
         /></a>
         <a
-            href="https://nicolasnosal.fr.com"
+            href="https://nicolasnosal.fr"
             title="Personal Website - nicolasnosal.fr"
             ><img
                 src="https://img.shields.io/badge/-nicolasnosal.fr-00CCB4?style=flat&logo=ApacheSpark&logoColor=white"
@@ -26,8 +26,9 @@
     </kbd>
 </p>
 
-<!-- Folding Section : About -->
 <hr/>
+
+<!-- Folding Section : About -->
 <details>
     <summary><b>👤 About:</b></summary>
     <ol style="list-style-type: none;">
@@ -56,12 +57,10 @@
     </div>
 </details>
 
-
 <!-- Footer -->
 #
-
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Showing some ❤️ by starring some repositories!
 
 </div>
