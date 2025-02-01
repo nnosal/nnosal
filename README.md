@@ -32,9 +32,9 @@
 <details>
     <summary><b>👤 About:</b></summary>
     <ol style="list-style-type: none;">
-        <li>🛠 &nbsp; I’m currently working with PHP, PYTHON, JS, K8S, etc.</li>
+        <li>🛠 &nbsp; I’m currently working with PHP, PYTHON, JS, YAML, BASH, etc.</li>
         <li>🧐 Learning about serverless architectures, jamstack, distributed systems, and a bit of ML.</li>
-        <li>👨‍💻 Most of my projects most of my work are private, but I will put some content starting 2025, in the willing of contribute for open-source.</li>
+        <li>👨‍💻 Most of my projects are private, but I will put some content starting 2025, in the willing of contribute for open-source.</li>
         <li>💬 Ping me on my Linkedin or my other network</li>
         <li>🎉 &nbsp; Fun fact: <b>"Chuck Norris doesn’t deploy to the cloud. The cloud deploys around Chuck Norris."</b> ☁️💥</li>
     </ol>
@@ -61,6 +61,6 @@
 #
 <div align="center">
 
-### Showing some ❤️ by starring some repositories!
+### Showing some ❤️ by starring some repositories
 
 </div>
