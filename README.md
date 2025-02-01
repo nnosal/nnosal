@@ -3,8 +3,8 @@
     👋 Hello! I'm Nicolas
 </h1>
 <p align="center">
-    <cite>I'm a French Full Stack Developer (PHP/JS/PY) currently leading at
-        Webservice-est.fr with a mission to bring marketing and stunning
+    <cite>I'm a French Full Stack Developer (PHP/JS/PY) and DevOps currently leading at
+        Webservice-Est.fr with a mission to bring marketing and stunning
         features for lovely customers 🚀</cite>
 </p>
 
@@ -35,7 +35,7 @@
         <li>🧐 Learning about serverless architectures, jamstack, distributed systems, and a bit of ML.</li>
         <li>👨‍💻 Most of my projects most of my work are private, but I will put some content starting 2025, in the willing of contribute for open-source.</li>
         <li>💬 Ping me on my Linkedin or my other network</li>
-        <li>🎉 &nbsp; Fun fact: **"Chuck Norris doesn’t deploy to the cloud. The cloud deploys around Chuck Norris."** ☁️💥</li>
+        <li>🎉 &nbsp; Fun fact: <b>"Chuck Norris doesn’t deploy to the cloud. The cloud deploys around Chuck Norris."</b> ☁️💥</li>
     </ol>
 </details>
 
